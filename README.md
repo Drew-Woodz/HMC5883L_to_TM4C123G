@@ -1,5 +1,6 @@
 # HMC5883L_to_TM4C123G
 Interfacing the HMC5883L 3-Axis Digital Compass with the Tiva TM4C123G LaunchPad
+by Andrew Lockwood & Anton Salah
 ## Introduction
 This document outlines the steps taken to initialize and configure the HMC5883L 3-Axis Digital Compass for use with the Tiva TM4C123G microcontroller. The process includes initializing the I2C communication protocol and configuring the compass module for accurate heading readings.
 ## I2C Initialization
